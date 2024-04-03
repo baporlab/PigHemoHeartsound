@@ -1,8 +1,8 @@
-# Correlations between heart sound components and hemodynamic variables in anesthetized pigs
-This repository contains the signal processing code used in the study titled "Correlations between heart sound components and hemodynamic variables in anesthetized pigs" published in the Scientific Reports journal.
+# Correlations between heart sound components and hemodynamic variables: an experimental swine model
+This repository contains the signal processing code used in the study titled "Correlations between heart sound components and hemodynamic variables: an experimental swine model" which is under revision in the Scientific Reports journal.
 
 # Overview
-The aim of this study was to investigate the correlations between heart sound components and hemodynamic variables in anesthetized pigs. By analyzing the relationships between heart sound characteristics and hemodynamic parameters, we aimed to explore the potential of heart sounds as non-invasive indicators of cardiovascular function.
+The aim of this study was to investigate the correlations between heart sound components and hemodynamic variables in a swine model. By analyzing the relationships between heart sound characteristics and hemodynamic parameters, we aimed to explore the potential of heart sounds as non-invasive indicators of cardiovascular function.
 Heart sounds can potentially provide a non-invasive monitoring method to differentiate the cause of hemodynamic variations.
 For more details refer to our paper: {link to the paper}
 
